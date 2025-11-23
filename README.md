@@ -31,7 +31,7 @@ opencv-python
 mediapipe
 pyautogui
 ```
-
+You can also use opencv-contrib-python instead of opencv-python.
 ## 🚀 How to Use
 
 ### 1. Fork & Clone the Repository

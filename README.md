@@ -1,4 +1,4 @@
-# 👁️ Eye Tracking Mouse Control
+# 👁️ Eye Tracking Mouse Control(XEyeTracker)
 
 Control your computer mouse and perform actions using just your eyes and head movements! This Python application uses your webcam to track eye movements for cursor control, detect blinks for clicking, and recognize head nods for scrolling.
 

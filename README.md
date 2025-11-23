@@ -72,7 +72,7 @@ You can adjust these parameters in the code for better performance:
 
 ## 🖥️ System Requirements
 
-- **Python**: 3.7 or higher
+- **Python**: 3.7 or higher but lower than 3.12(as mediapipe got depreciated in 3.12 releases)
 - **Webcam**: Required for face tracking
 - **OS**: Windows, macOS, or Linux
 

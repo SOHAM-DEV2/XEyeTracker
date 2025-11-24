@@ -98,5 +98,3 @@ MIT License - Feel free to modify and distribute!
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
-
-Made with ❤️ using Computer Vision
